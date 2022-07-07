@@ -2,6 +2,8 @@
 
 This website lists various cybersecurity skill points and the requirements of different cybersecurity positions.
 
+Website link: [cssp.web.app](https://cssp.web.app)
+
 ## Project setup
 ```
 yarn install
